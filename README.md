@@ -20,6 +20,7 @@ Repositório criado com o Intuito de ser um catalizador de informações sobre o
 ---
 
 [LinkedIn](https://www.linkedin.com/in/sandro-srj/)
+
 [Guia Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 ---
@@ -46,4 +47,5 @@ This Repo was created with the intention to be a center of informations about th
 ---
 
 [LinkedIn](https://www.linkedin.com/in/sandro-srj/)
+
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
