@@ -10,6 +10,10 @@ Comandos importantes:
 
 `git init`
 
+### Adicionar origem remota ao projeto
+
+`git remote add origin <url>`
+
 ### Adicionar arquivos para o status "Staged"
 
 `git add`
